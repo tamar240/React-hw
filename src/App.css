@@ -1,0 +1,10 @@
+#profil{
+    position: absolute; /* או fixed */
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 30px;
+}
+/* #profAndBtn
+{} */
